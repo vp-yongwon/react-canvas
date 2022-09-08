@@ -1,0 +1,7 @@
+$color-black: #000000;
+$color-white: #ffffff;
+$color-dark: #222222;
+
+@mixin font-initial {
+  font-family: 'Apple SD Gothic Neo', AppleSDGothicNeo, 'Malgun Gothic', '맑은 고딕', Roboto, 'Helvetica Neue', '애플 SD 산돌고딕 Neo', dotum, gulim, Helvetica, Arial, sans-serif
+}
