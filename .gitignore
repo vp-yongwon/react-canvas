@@ -26,7 +26,6 @@ debug.log
 yarn.lock
 /vpapp_new.iml
 
-/public/robots.txt
 .env.development
 
 # cypress
